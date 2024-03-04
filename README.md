@@ -1,6 +1,6 @@
 # PRODIGY_CS_01
 <h2>PRODIGY INFOTECH</h2><br />
-TASK 1: Implementation of Caesar Cipher<br />
+<span style="color:blue;">TASK 1: Implementation of Caesar Cipher</span><br />
 
 Create a Python program that can encrypt and decrypt text using the Caesar Cipher algorith. Allow users to input a messafe and a shift value to perform encryption and decryption.<br><br>
 <h3>Observations:</h3>
@@ -13,3 +13,9 @@ Create a Python program that can encrypt and decrypt text using the Caesar Ciphe
   </li>
   <li>Shifting/Rotting a text as per the user choice</li>
 </ol>
+<h3>Outcome:</h3>
+<ul>
+  <li>Learned about the cryptography field</li>
+  <li>Learned how basic encryption and decryption works</li>
+  <li>Learned how a shifting works using ASCII code</li>
+</ul>
